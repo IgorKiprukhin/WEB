@@ -1,0 +1,21 @@
+html {
+    background-color: #E6E6FA;
+}
+h1{
+    color: #FFA500;
+}
+h2 {
+    color: #228B22;
+}
+a{
+    color: #228B22;
+}
+img{
+    margin-left: 50px;
+}
+.big_text{
+    font-size: 1.5rem;
+}
+a:hover{
+    color:  #c9560e;
+}
